@@ -2,6 +2,11 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahsouza&show_icons=true&theme=buefy)
 
+</br>
+
+<a align="center" href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ahsouza"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ahsouza&layout=compact&theme=buefy" />
+</a>
+
 
 <!--
 **ahsouza/ahsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
