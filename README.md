@@ -1,24 +1,13 @@
 
+### 📈 Activity:
+![ahsouza's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ahsouza&hide_border=true&theme=redical)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahsouza&show_icons=true&theme=buefy)
-
-</br>
-
-<a align="center" href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ahsouza"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ahsouza&layout=compact&theme=buefy" />
-</a>
+ . | .
+--- | --- 
+![ahsouza's github stats](https://github-readme-stats.vercel.app/api?username=ahsouza&show_icons=true&theme=radical&include_all_commits=true) | ![willsantos96's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsouza&theme=radical&layout=compact)
 
 
-<!--
-**ahsouza/ahsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<small> author of [Project Barca](https://github.com/project-barca)</small>
