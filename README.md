@@ -1,6 +1,6 @@
 
 ### 📈 Activity:
-![ahsouza's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ahsouza&hide_border=true&theme=redical)
+
 
  . | .
 --- | --- 
@@ -10,4 +10,4 @@
 <br/>
 <br/>
 
-<small> author of [Project Barca](https://github.com/project-barca)</small>
+<small> Founder/CTO [Barca Corporation](https://github.com/BarcaCorporation)</small>
